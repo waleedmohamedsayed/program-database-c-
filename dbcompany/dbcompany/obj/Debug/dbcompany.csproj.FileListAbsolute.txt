@@ -1,0 +1,10 @@
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\bin\Debug\dbcompany.exe.config
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\bin\Debug\dbcompany.exe
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\bin\Debug\dbcompany.pdb
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.csprojResolveAssemblyReference.cache
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.Form1.resources
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.Properties.Resources.resources
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.csproj.GenerateResource.cache
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.csproj.CoreCompileInputs.cache
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.exe
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.pdb
