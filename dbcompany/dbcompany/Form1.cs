@@ -21,5 +21,12 @@ namespace dbcompany
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            frmCustomer frmcust = new frmCustomer();
+            frmcust.MdiParent = this;
+            frmcust.Show();
+        }
     }
 }

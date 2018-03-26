@@ -121,34 +121,88 @@
   <data name="action-in" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\action-in.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="action-out" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\action-out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_go-home_1187701" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_go-home_1187701.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="buy3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\buy3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_store_87473" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_store_87473.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="buying1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\buying1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_store_87473 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_store_87473 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="buying2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\buying2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_item-configuration_49591" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_item-configuration_49591.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Customers" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Customers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_exit_11070" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_exit_11070.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\home1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_Statistics_65668" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Statistics_65668.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="home2-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\home2-icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="items" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\items.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="if_go-home_1187703" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_go-home_1187703.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sell3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sell3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="if_go-home_1187702" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_go-home_1187702.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buying1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buying1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_buy_16_22520" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_buy_16_22520.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="items" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\items.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="action-out" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\action-out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_go-home_118770" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_go-home_118770.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Businessman_131483" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Businessman_131483.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_zoom-out_49633" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_zoom-out_49633.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_09_61473" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_09_61473.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="store1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\store1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Customers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Customers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_zoom-in_49632" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_zoom-in_49632.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_go-home_118770 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_go-home_118770 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_1_1668045" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_1_1668045.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buy3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buy3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Customer_Male_Light_80830" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Customer_Male_Light_80830.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home2-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home2-icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buying2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buying2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_DeleteRed_34218" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_DeleteRed_34218.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

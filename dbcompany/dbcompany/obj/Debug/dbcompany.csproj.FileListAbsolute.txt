@@ -8,3 +8,4 @@ C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.cspro
 C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.csproj.CoreCompileInputs.cache
 C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.exe
 C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.pdb
+C:\Users\leeeedo\Desktop\dbcompany\dbcompany\dbcompany\obj\Debug\dbcompany.frmCustomer.resources

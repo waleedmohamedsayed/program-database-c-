@@ -45,16 +45,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="00frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="00frmMain.Designer.cs">
+      <DependentUpon>00frmMain.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="00frmMain.resx">
+      <DependentUpon>00frmMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -111,6 +129,60 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\store1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_go-home_118770.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_go-home_1187701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_go-home_1187702.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_go-home_1187703.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_go-home_118770 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Customer_Male_Light_80830.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_item-configuration_49591.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_buy_16_22520.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Businessman_131483.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_09_61473.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_zoom-in_49632.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_store_87473.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_store_87473 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Statistics_65668.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_1_1668045.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_zoom-out_49633.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_11070.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_DeleteRed_34218.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
